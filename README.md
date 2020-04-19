@@ -1,2 +1,2 @@
-# test new repo
-test repo2
+# test new repo with shuchi
+test repo_shuchi
